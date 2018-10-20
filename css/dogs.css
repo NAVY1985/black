@@ -1,10 +1,10 @@
-body{
+header{
   background:#000;
 }
 
 .logo {
   background: url(../assets/img/portada.jpg) no-repeat fixed center center;
-  height: 650px;
+  height: 657px;
   max-width: 100%;
 }
 
