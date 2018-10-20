@@ -1,9 +1,10 @@
-.logo {
-  background-image: url(../assets/img/portada.jpg);
-  height: 600px;
-  background-repeat: no-repeat;
-  background-size: cover;
-  max-width: 100%;
- background-position: center;
- 
+body{
+  background:#000;
 }
+
+.logo {
+  background: url(../assets/img/portada.jpg) no-repeat fixed center center;
+  height: 650px;
+  max-width: 100%;
+}
+
